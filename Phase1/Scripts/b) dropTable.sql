@@ -1,0 +1,17 @@
+drop view if exists jogadorTotalInfo;
+drop table if exists estatisticas_jogo;
+drop table if exists estatisticas_jogador;
+drop table if exists mensagem;
+drop table if exists participacao_conversa;
+drop table if exists conversa;
+drop table if exists amizade;
+drop table if exists cracha_jogador;
+drop table if exists cracha;
+drop table if exists participacao;
+drop table if exists partida_multi_jogador;
+drop table if exists partida_normal;
+drop table if exists partida;
+drop table if exists compra;
+drop table if exists jogo;
+drop table if exists jogador;
+drop table if exists regiao;
