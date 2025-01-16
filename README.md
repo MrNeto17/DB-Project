@@ -65,16 +65,4 @@ This project is a database and application solution developed for the "GameOn" s
   - `tests/`: Test scripts for Phase 2 functionalities.
   - `docs/`: Documentation and report for Phase 2.
 
-## Authors
-Developed by students of the **Licenciatura em Engenharia Informática e de Computadores** under the guidance of **Professors Afonso Remédios, Nuno Leite, and Walter Vieira**.
 
-## Acknowledgments
-Special thanks to the "GameOn" team for providing a comprehensive system requirement document that guided this project.
-"""
-
-# Save this content into a README.md file
-file_path = "/mnt/data/README.md"
-with open(file_path, "w") as readme_file:
-    readme_file.write(readme_content)
-
-file_path
