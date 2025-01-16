@@ -58,11 +58,10 @@ This project is a database and application solution developed for the "GameOn" s
 ## File Structure
 - `Phase1/`
   - `scripts/`: SQL scripts for database creation, removal, and population.
-  - `tests/`: Test scripts for Phase 1 functionalities.
-  - `docs/`: Documentation and report for Phase 1.
+  - `Phase1_report`: Documentation and report for Phase 1.
 - `Phase2/`
-  - `src/`: Source code for the Java application.
-  - `tests/`: Test scripts for Phase 2 functionalities.
-  - `docs/`: Documentation and report for Phase 2.
+  - `src/java`: Source code for the Java application.
+  - `src/sql`: SQL Scripts and tests.
+  - `Phase_report/`: Documentation and report for Phase 2.
 
 
