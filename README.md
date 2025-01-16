@@ -1,8 +1,3 @@
-# Let's create a README.md file based on the provided structure and content.
-
-readme_content = """
-# GameOn Management System
-
 ## Overview
 
 This project is a database and application solution developed for the "GameOn" system, designed to manage games, players, and their activities. The project spans two phases, focusing on database development and application implementation.
